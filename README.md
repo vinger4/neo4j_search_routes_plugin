@@ -7,20 +7,14 @@
 
 ### How do I get set up? ###
 
-* Summary of set up
+* We use follow command for make *.jar: *mvn clean package*. Than we copy *.jar into neo4j/plugins directory
 * Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Dependencies: please show pom.xml
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* There are no contribution guidelines here.
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Please feel free to send a email at vinger4 at gmail.com
