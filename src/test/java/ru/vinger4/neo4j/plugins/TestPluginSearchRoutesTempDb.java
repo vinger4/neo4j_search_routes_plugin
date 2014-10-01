@@ -1,12 +1,10 @@
 package ru.vinger4.neo4j.plugins;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.log4j.Logger;
 import org.junit.*;
 import org.neo4j.graphdb.*;
 import org.neo4j.graphdb.factory.GraphDatabaseFactory;
 import org.neo4j.graphdb.factory.GraphDatabaseSettings;
-import org.neo4j.server.rest.repr.Representation;
 import org.neo4j.tooling.GlobalGraphOperations;
 
 import java.io.File;

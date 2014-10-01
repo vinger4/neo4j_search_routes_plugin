@@ -74,7 +74,7 @@
                     </formats>
 			      <instrumentation>
 			        <excludes>
-			          <exclude>ru/a360/neo4j/plugins/*$*.class</exclude>
+			          <exclude>ru/vinger4/neo4j/plugins/*$*.class</exclude>
 			        </excludes>
 			      </instrumentation>
 			    </configuration>
