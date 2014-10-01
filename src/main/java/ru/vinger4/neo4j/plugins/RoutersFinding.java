@@ -1,13 +1,8 @@
 package ru.vinger4.neo4j.plugins;
 
-import org.apache.commons.collections.ListUtils;
 import org.neo4j.graphdb.*;
-import org.neo4j.graphdb.traversal.BranchState;
-import org.neo4j.kernel.impl.util.SingleNodePath;
 
-import java.lang.reflect.Type;
 import java.util.*;
-import java.util.concurrent.Callable;
 
 public class RoutersFinding
 {
