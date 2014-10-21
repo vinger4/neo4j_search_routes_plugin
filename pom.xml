@@ -6,7 +6,7 @@
 	<groupId>ru.vinger4.neo4j.plugins</groupId>
 	<artifactId>neo4j-search-routes-plugin</artifactId>
 	<packaging>jar</packaging>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>neo4j search routes plugin</name>
 	<url>https://bitbucket.org/vinger4/neo4j_search_routes_plugin</url>
 
