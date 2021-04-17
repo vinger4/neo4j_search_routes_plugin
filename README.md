@@ -12,7 +12,7 @@
 
 ### Who do I talk to? ###
 
-* Please feel free to send a email at vinger4 at gmail.com
+* Please feel free to send a email at evgenii.kozhanov at gmail.com
 
 ### Example ###
 
